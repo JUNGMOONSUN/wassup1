@@ -1,3 +1,5 @@
-# ESTSoft Wassup01 Exercise
-Author: MOON SUN JUNG
+# wassup1
+ESTSoft Wassup01 Exercise
 
+
+랄랄라라라
