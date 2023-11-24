@@ -1,5 +1,6 @@
-# wassup1
-ESTSoft Wassup01 Exercise
+# ESTSoft Wassup01 Exercise
 
+Author: MOON SUN JUNG
 
-랄랄라라라
+테스트 페이지 입니다.
+
